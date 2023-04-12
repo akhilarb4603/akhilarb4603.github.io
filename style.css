@@ -1,0 +1,97 @@
+body{
+    background-color:white;
+    
+}
+*{
+    scroll-behavior: smooth;
+}
+.nav-links{
+    padding:15px 0;
+    float:right;
+    
+}
+.nav-links li{
+    display:inline-block;
+    margin: 0 15px;
+    text-align:right;
+    font-family: 'Urbanist', sans-serif;
+    
+  
+}
+.nav-links li a{
+    text-decoration:none;
+    color:#060047;
+    padding:5px 0;
+    
+    
+}
+.home{
+    width: 100%;
+    position:absolute;
+    top:70%;
+    transform:translateY(-50%);
+    text-align:left;
+    color:#060047;
+    margin-left:1px;
+}
+.home h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 130px;
+    line-height: 1px;
+    letter-spacing:5px;
+}
+.home h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 48px;
+    padding:initial;
+    line-height:1px;
+    letter-spacing: 10px;
+}
+.about{
+    color:#060047;
+    text-align:left;
+    transform:translateY(100%);
+    width:-20px;
+    margin-left:50px;
+    margin-right:500px;
+    
+}
+.about h1{
+    font-family: 'Urbanist', sans-serif;
+    font-size:60px;  
+    line-height:1px;
+}
+.about h3{
+    font-family: 'Urbanist', sans-serif;
+    font-size: 48px;
+    padding:initial;
+    line-height:1px;
+    letter-spacing: 5px;
+}
+.about p{
+    font-family: 'Urbanist', sans-serif;
+    text-align:left;
+    font-size:20px;
+    
+}
+.about img{
+    width:290px;
+    margin-bottom: 600px;
+    margin-top:-100px;
+    margin-left:1000px;
+    border-radius: 10%;
+}
+.contact{
+    color:#060047;
+    text-align:left;
+    transform:translateY(1500%);
+    width:-20px;
+    
+}
+.contact h1{
+    font-family: 'Urbanist', sans-serif;
+    font-size:60px;
+    text-align:center;
+}
+
+ 
